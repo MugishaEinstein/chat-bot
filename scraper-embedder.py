@@ -18,32 +18,13 @@ PINECONE_API_KEY = secrets["API"]["PINECONE_API_KEY"]
 OPEN_AI_API_KEY = secrets["API"]["OPEN_AI_API_KEY"]
 
 sitemaps = [
-    "https://www.seobythesea.com/post-sitemap.xml",
-    "https://www.seobythesea.com/post-sitemap2.xml",
-    "https://www.holisticseo.digital/post-sitemap1.xml",
-    "https://www.holisticseo.digital/post-sitemap2.xml",
-    "https://www.holisticseo.digital/post-sitemap3.xml",
-    "https://www.holisticseo.digital/post-sitemap4.xml",
+    "https://www.askanadventistfriend.com/post-sitemap.xml",
+    "https://www.askanadventistfriend.com/page-sitemap.xml",
 ]
 
 additional_urls = [
-    "https://www.oncrawl.com/technical-seo/importance-topical-authority-semantic-seo/",
-    "https://www.holisticseo.digital/theoretical-seo/topical-authority/",
-    "https://inlinks.net/p/case-studies/importance-of-entity-oriented-search-understanding-for-seo-beyond-strings/",
-    "https://www.oncrawl.com/technical-seo/creating-semantic-content-networks-with-query-document-templates-case-study/",
-    "https://www.holisticseo.digital/theoretical-seo/ranking/",
-    "https://www.oncrawl.com/technical-seo/multilingual-international-seo-guidelines-case-study/",
-    "https://www.holisticseo.digital/technical-seo/multilingual-seo/",
-    "https://www.oncrawl.com/technical-seo/google-core-updates-effects-problems-and-solutions-for-ymyl-sites/",
-    "https://www.oncrawl.com/technical-seo/how-to-become-a-winner-from-every-google-core-algorithm-update/",
-    "https://jetoctopus.com/importance-of-ranking-signal/",
-    "https://serpstat.com/blog/the-importance-of-technical-seo-insights-of-technical-issues-of-unibaby-project/",
-    "https://serpstat.com/blog/user-experience-authoritative-content-and-page-speed-for-organic-traffic-growth/",
-    "https://serpstat.com/blog/how-a-web-entity-can-grow-traffic-and-lose-google-core-algorithm-update-at-the-same-time/",
-    "https://www.rootandbranchgroup.com/importance-of-context-for-seo/",
-    "https://www.holisticseo.digital/python-seo/data-science/",
-    "https://www.holisticseo.digital/theoretical-seo/google-author",
-    "https://www.authoritas.com/blog/encazip-case-study/",
+    "https://www.adventist.org/beliefs/",
+
 ]
 
 
